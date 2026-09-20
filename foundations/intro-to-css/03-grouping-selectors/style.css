@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.combi,
+.yellow {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.combi {
+  background-color: black;
+  color: #ffffff;
+}
+
+.yellow {
+  background-color: rgb(255 255 0)
+}
